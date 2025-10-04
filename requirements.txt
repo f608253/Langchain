@@ -1,5 +1,10 @@
 langchain
+langchain-openai
 python-dotenv
 ipykernel
 langchain_community
 pypdf
+beautifulsoup4
+wikipedia
+bs4
+langchain-text-splitters
