@@ -9,3 +9,5 @@ wikipedia
 bs4
 langchain-text-splitters
 langchain_community
+faiss-cpu
+streamlit
